@@ -6,4 +6,5 @@ package com.example.prashant.captureimageandstoreinexternaldevice;
 public class Demo {
     String Demo = "Prashant";
     String d = "jadhav";
+    String d1 ="nashik";
 }
