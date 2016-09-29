@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     static int TAKE_PIC =1;
     Uri outPutfileUri;
+
+    // THIS JUST DEMO PROJECT WORK
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
